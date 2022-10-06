@@ -356,3 +356,7 @@ MigrationBackup/
 # Fody - auto-generated XML schema
 FodyWeavers.xsd
 libs
+The Scroll OfTaiwu/ScriptTrainer/ScriptTrainer.csproj
+The Scroll OfTaiwu/ScriptTrainer/ScriptTrainer.csproj
+*.csproj
+*.sln
