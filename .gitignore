@@ -360,3 +360,5 @@ The Scroll OfTaiwu/ScriptTrainer/ScriptTrainer.csproj
 The Scroll OfTaiwu/ScriptTrainer/ScriptTrainer.csproj
 *.csproj
 *.sln
+*.user
+*.csproj
